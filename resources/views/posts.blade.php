@@ -61,7 +61,7 @@
           <article>
             <p class="font-semibold text-gray-400 text-xl my-4">Articles Not Found</p>
             <a class="text-blue-600" href="/posts">&laquo; Back to All posts</a>
-          </article>              
+          </article>    
         @endforelse
       </div>  
   </div>
